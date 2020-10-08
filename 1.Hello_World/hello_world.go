@@ -12,3 +12,5 @@ func main() {
 // 使用 go build 對本檔案進行編譯，在直接執行，以linux為例：
 // $ go build hello_world.go
 // $ ./hello_world
+// 或使用 go run 直接執行.go檔案：
+// $ go run hello_world.go
